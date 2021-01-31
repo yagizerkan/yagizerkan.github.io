@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hic Sunt Leadership</title>
+    <link>https://yazerk.com/</link>
+    <description>Recent content on Hic Sunt Leadership</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Yagiz Erkan 2021</copyright>
+    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://yazerk.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://yazerk.com/about/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yazerk.com/about/</guid>
+      <description>I write about Leadership...
+Over the years I&#39;ve written in various places including some company blogs that have since disappeared. Some of my more recent articles are on Medium (https://yagiz.medium.com) or on my current company&#39;s blog (https://pex.com/blog). I&#39;m moving them here one by one.
+I live in beautiful, sunny Colorado. I took the following shot in Boulder.</description>
+    </item>
+    
+    <item>
+      <title>Road to Better Stand-Ups</title>
+      <link>https://yazerk.com/posts/2019-01-23-road-to-better-stand-ups/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yazerk.com/posts/2019-01-23-road-to-better-stand-ups/</guid>
+      <description>The daily stand-up/scrum/huddle is one of the most used and abused practices of many agile methodologies. You need a simple mind-shift to make it more effective. Stand-ups. Nightmare of some, frustrations of many.
+Not that you have to practice scrum to have stand-ups, but here is how the Scrum Guide describes it:
+ The Daily Scrum is a 15-minute time-boxed event for the Development Team…
+At it, the Development Team plans work for the next 24 hours…</description>
+    </item>
+    
+    <item>
+      <title>Angry Monkeys - A Corporate Fable</title>
+      <link>https://yazerk.com/posts/2018-03-05-angry-monkeys/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yazerk.com/posts/2018-03-05-angry-monkeys/</guid>
+      <description>This is my favorite corporate fable. Its moral is simple, but it is very easy to walk right into it. *A group of scientists put five monkeys in a room, and in the middle they placed a stepladder that had a delicious banana on its platform. When a monkey climbed the ladder and got to the banana the scientists hosed down the remaining 4 monkeys.
+After a while the poor animals understood that they were going to get drenched if one of them attempted to get to the banana, so they lunged at the monkey that fell into temptation and beat it until it changed its mind.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stand-up on Hic Sunt Leadership</title>
+    <link>https://yazerk.com/tags/stand-up/</link>
+    <description>Recent content in stand-up on Hic Sunt Leadership</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Yagiz Erkan 2021</copyright>
+    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://yazerk.com/tags/stand-up/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Road to Better Stand-Ups</title>
+      <link>https://yazerk.com/posts/2019-01-23-road-to-better-stand-ups/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yazerk.com/posts/2019-01-23-road-to-better-stand-ups/</guid>
+      <description>The daily stand-up/scrum/huddle is one of the most used and abused practices of many agile methodologies. You need a simple mind-shift to make it more effective. Stand-ups. Nightmare of some, frustrations of many.
+Not that you have to practice scrum to have stand-ups, but here is how the Scrum Guide describes it:
+ The Daily Scrum is a 15-minute time-boxed event for the Development Team…
+At it, the Development Team plans work for the next 24 hours…</description>
+    </item>
+    
+  </channel>
+</rss>
