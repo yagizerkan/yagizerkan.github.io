@@ -5,19 +5,49 @@
     <link>https://yazerk.com/tags/scrum/</link>
     <description>Recent content in scrum on Hic Sunt Leadership</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© Yagiz Erkan 2021</copyright>
-    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://yazerk.com/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 20018–2021, Yağız Erkan; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 -0700</lastBuildDate><atom:link href="https://yazerk.com/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Road to Better Stand-Ups</title>
       <link>https://yazerk.com/posts/2019-01-23-road-to-better-stand-ups/</link>
-      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 -0700</pubDate>
       
       <guid>https://yazerk.com/posts/2019-01-23-road-to-better-stand-ups/</guid>
-      <description>The daily stand-up/scrum/huddle is one of the most used and abused practices of many agile methodologies. You need a simple mind-shift to make it more effective. Stand-ups. Nightmare of some, frustrations of many.
-Not that you have to practice scrum to have stand-ups, but here is how the Scrum Guide describes it:
- The Daily Scrum is a 15-minute time-boxed event for the Development Team…
-At it, the Development Team plans work for the next 24 hours…</description>
+      <description>
+        
+          &lt;h4 id=&#34;the-daily-stand-upscrumhuddle-is-one-of-the-most-used-and-abused-practices-of-many-agile-methodologies-you-need-a-simple-mind-shift-to-make-it-more-effective&#34;&gt;The daily stand-up/scrum/huddle is one of the most used and abused practices of many agile methodologies. You need a simple mind-shift to make it more effective.&lt;/h4&gt;
+&lt;p&gt;Stand-ups. Nightmare of some, frustrations of many.&lt;/p&gt;
+&lt;p&gt;Not that you have to practice scrum to have stand-ups, but here is how &lt;a href=&#34;https://www.scrumguides.org/scrum-guide.html&#34;&gt;the Scrum Guide&lt;/a&gt; describes it:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The Daily Scrum is a 15-minute time-boxed event for the Development Team…
+At it, the Development Team plans work for the next 24 hours…
+…Here is an example of what might be used:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What did I do yesterday that helped the Development Team meet the Sprint Goal?&lt;/li&gt;
+&lt;li&gt;What will I do today to help the Development Team meet the Sprint Goal?&lt;/li&gt;
+&lt;li&gt;Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Derived from the information above, most of the stand-ups wrongly end up with team members answering the following questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What did you do yesterday?&lt;/li&gt;
+&lt;li&gt;What are you doing today?&lt;/li&gt;
+&lt;li&gt;Have you had any impediments?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;But the above excerpt says “here is an &lt;strong&gt;example&lt;/strong&gt;”. It doesn’t prescribe these three questions as a template to live by. This approach, just like any approach that seems dogmatic is against the basic agile principles, in which we continuously question our assumptions and practices in order to improve by making adjustments. Stand-ups are no exception.&lt;/p&gt;
+&lt;h2 id=&#34;walking-the-board&#34;&gt;Walking The Board&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;… to inspect progress toward the Sprint Goal and to inspect how progress is trending toward completing the work in the Sprint Backlog.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Let’s change our point of view, and let’s do a story-driven stand-up. Instead of putting the focus on each team member one by one, let’s walk the story board from one end to the other and let’s make the stories talk. I like the right-to-left approach.&lt;/p&gt;
+&lt;p&gt;One of the team’s job is to minimize the time it takes for every work item to go from the left-most to the right-most point. Therefore the questions we ask during the daily stand-up should reflect that. &lt;em&gt;“How can we unblock this?”&lt;/em&gt;, &lt;em&gt;“How can we help this test?”&lt;/em&gt;, &lt;em&gt;“Can I help you with this?”&lt;/em&gt; or &lt;em&gt;“How can we move this to ${next_stage}”&lt;/em&gt; are some of the questions that the team can ask.&lt;/p&gt;
+&lt;h2 id=&#34;less-individualism--increased-team-ownership&#34;&gt;Less Individualism &amp;amp; Increased Team Ownership&lt;/h2&gt;
+&lt;p&gt;Making the story the focal-point of the conversation also nurtures a culture of increased team ownership. It’s less about &lt;em&gt;“who’s doing what?”&lt;/em&gt;, and more about &lt;em&gt;“how can we help advance the stories to reach the sprint goal as a team?”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The lines between closing tickets individually and helping others close tickets get intentionally hazy.&lt;/p&gt;
+&lt;p&gt;Highly-effective teams don’t sprint individually. They carry the baton to the finishing line together. Effective daily huddles are a great way keep the team’s momentum at an optimum level.&lt;/p&gt;
+
+        
+      </description>
     </item>
     
   </channel>
