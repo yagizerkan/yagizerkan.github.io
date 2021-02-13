@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/yagiz/workspaces/perso/blog/yazerkblog",
+	"sourceRoot": "/Users/yagiz/workspaces/perso/blog/yazerk",
 	"sources": [
 		"themes/hugo-clarity/assets/sass/main.sass",
 		"themes/hugo-clarity/assets/sass/_variables.sass",
